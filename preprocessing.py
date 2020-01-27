@@ -45,8 +45,7 @@ ragged P wave, nominal V2', 'Existence of diphasic derivation of P wave V2',
 'Q wave V3', 'R wave V3', 'S wave V3', V3', V3', 'Number
 of intrinsic deflections - V3', 'Existence of ragged R wave V3', 'Existence of
 diphasic derivation of R wave V3', 'Existence of ragged P wave, nominal V3',
-'Existence of diphasic derivation of P wave V3', 'Existence of ragged T wave V3', 
-66
+'Existence of diphasic derivation of P wave V3', 'Existence of ragged T wave V3',
 'Existence of diphasic derivation of T wave V3', 'Q wave V4', 'R wave V4', 'S
 wave V4', V4', V4', 'Number of intrinsic deflections - V4',
 'Existence of ragged R wave V4', 'Existence of diphasic derivation of R wave V4',
